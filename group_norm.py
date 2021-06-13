@@ -1,5 +1,5 @@
 from keras.engine import layers
-from keras.engine.layers import Layer, InputSpec
+#from keras.engine.layers import Layer, InputSpec
 from keras import initializers
 from keras import regularizers
 from keras import constraints
