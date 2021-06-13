@@ -1,6 +1,6 @@
 import tensorflow as tf
-from tf import keras
-from tf.keras.engine.layers import Layer, InputSpec
+from tensorflow import keras
+from tensorflow.keras.engine.layers import Layer, InputSpec
 from keras import initializers
 from keras import regularizers
 from keras import constraints
